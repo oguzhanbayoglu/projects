@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/projects/static/css/main.ba18848a.css",
+    "main.js": "/projects/static/js/main.25c36dd6.js",
+    "static/media/Acorn-Bold.otf": "/projects/static/media/Acorn-Bold.2a82187cdf1b4c80bdff.otf",
+    "static/media/Acorn-SemiBold.otf": "/projects/static/media/Acorn-SemiBold.fd34de2154569ae74e30.otf",
+    "static/media/Acorn-Medium.otf": "/projects/static/media/Acorn-Medium.d6b3bf5fab9e20defd1f.otf",
+    "static/media/Acorn-Regular.otf": "/projects/static/media/Acorn-Regular.69a34b37799fd1f6c284.otf",
+    "static/media/Acorn-Light.otf": "/projects/static/media/Acorn-Light.6a330214b9f9966ce2a6.otf",
+    "static/media/Acorn-ExtraLight.otf": "/projects/static/media/Acorn-ExtraLight.b768e38621b0a66e450d.otf",
+    "static/media/Acorn-Thin.otf": "/projects/static/media/Acorn-Thin.5a04a5ac8b5f544bc954.otf",
+    "index.html": "/projects/index.html",
+    "main.ba18848a.css.map": "/projects/static/css/main.ba18848a.css.map",
+    "main.25c36dd6.js.map": "/projects/static/js/main.25c36dd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba18848a.css",
+    "static/js/main.25c36dd6.js"
+  ]
+}
