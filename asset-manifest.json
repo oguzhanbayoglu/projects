@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projects/static/css/main.cacdbd30.css",
-    "main.js": "/projects/static/js/main.3f092076.js",
+    "main.css": "/projects/static/css/main.a5466737.css",
+    "main.js": "/projects/static/js/main.77dea470.js",
     "static/media/Acorn-Bold.otf": "/projects/static/media/Acorn-Bold.2a82187cdf1b4c80bdff.otf",
     "static/media/Acorn-SemiBold.otf": "/projects/static/media/Acorn-SemiBold.fd34de2154569ae74e30.otf",
     "static/media/Acorn-Medium.otf": "/projects/static/media/Acorn-Medium.d6b3bf5fab9e20defd1f.otf",
@@ -10,11 +10,11 @@
     "static/media/Acorn-ExtraLight.otf": "/projects/static/media/Acorn-ExtraLight.b768e38621b0a66e450d.otf",
     "static/media/Acorn-Thin.otf": "/projects/static/media/Acorn-Thin.5a04a5ac8b5f544bc954.otf",
     "index.html": "/projects/index.html",
-    "main.cacdbd30.css.map": "/projects/static/css/main.cacdbd30.css.map",
-    "main.3f092076.js.map": "/projects/static/js/main.3f092076.js.map"
+    "main.a5466737.css.map": "/projects/static/css/main.a5466737.css.map",
+    "main.77dea470.js.map": "/projects/static/js/main.77dea470.js.map"
   },
   "entrypoints": [
-    "static/css/main.cacdbd30.css",
-    "static/js/main.3f092076.js"
+    "static/css/main.a5466737.css",
+    "static/js/main.77dea470.js"
   ]
 }
