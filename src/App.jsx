@@ -1,6 +1,7 @@
 function App() {
   return (
     <div className="flex flex-col items-center justify-center h-full">
+      <img src="logo.png" alt="logo" className="h-24 w-24 m-8" />
       <div className="text-white text-[1.5rem] font-thin mb-8">
         Oğuzhan Necim Bayoğlu
       </div>
